@@ -1,0 +1,9 @@
+&inputpp 
+   prefix       = 'sccuo2'
+   outdir       = '/mnt/ceph/users/sbeck/QE_tmp/'
+   seedname     = 'sccuo2'
+   write_mmn    = .true.
+   write_amn    = .true.
+   write_spn    = .false.
+   write_unk    = .true.
+/
